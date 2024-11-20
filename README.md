@@ -1,3 +1,33 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo-UNAM-escalable.svg/683px-Escudo-UNAM-escalable.svg.png" alt="Logo de la Institución" width="100" align="left">
+<img src="https://www.acatlan.unam.mx/identidad-acatlan/img/Logotipos/Escudo/escudo-b.jpg" alt="Logo de la Institución" width="100" align="right">
+#**INTRODUCCIÓN A TEORÍA DE GRÁFICAS**
+
+
+
+
+
+
+
+
+### **Integrantes:**  
+Daniel Espinosa Martínez, Ana Karen Merlos Perea, Jonatan Abdias Orozco Lopez, Joselyn Ortiz Sanchez, Ramirez Torres Maria del Carmen
+
+### **Materia:**  
+Solución Algorítmica de Problemas
+### **Profesor:**  
+Arturo Antonio Soto Osornio
+
+### **Grupo:**  
+1152  
+
+---
+
+### **Institución:**  
+FES ACATLÁN 
+
+
+---
+
 # Introducción a Teoría de Gráficas
 
 La teoría de gráficas es una rama de las matemáticas que estudia las propiedades de los grafos, aplicándolas en distintas áreas, incluyendo la computación. Estos también son conocidos como **grafos**.
@@ -137,17 +167,51 @@ Los gráficos planares garantizan que las aristas no se crucen, respetando la di
 # Conclusión
 La teoría de grafos es una rama fundamental de las matemáticas y la informática que estudia estructuras formadas por nodos y aristas. A lo largo de esta introducción, se han cubierto los conceptos básicos para poder comprender gráficas .
 
-El estudio de gráficas permite resolver problemas  esenciales para tareas como la búsqueda de caminos y la detección de ciclos. En resumen, la teoría de gráficas es crucial para abordar problemas prácticos y teóricos en diversas disciplinas.
-#Material utilizado
+##Conclusiones
+1.  Esta asignatura proporciona una base sólida para comprender cómo modelar y resolver problemas en diversas áreas, como informática, redes, logística y ciencias sociales. A través del estudio de conceptos como vértices, aristas, conectividad, ciclos, y algoritmos fundamentales (como búsqueda en profundidad, caminos mínimos y flujos), se desarrolla una habilidad crítica para analizar estructuras abstractas y aplicarlas en contextos reales. Este conocimiento es esencial para abordar problemas complejos de forma eficiente y fundamentada.
+2.  La representación algebraica de grafos es una herramienta fundamental en el estudio de redes y estructuras discretas, ya que permite describir las propiedades de los grafos mediante matrices, vectores y operaciones algebraicas.
+Esta representación no solo simplifica el análisis computacional de los grafos, sino que también abre la puerta a la aplicación de técnicas matemáticas avanzadas, como la teoría espectral, para resolver problemas complejos en diversas disciplinas, como la optimización de redes, el modelado de sistemas físicos, y el análisis de datos en redes sociales o biológicas. En resumen, la representación algebraica convierte problemas topológicos en problemas algebraicos, facilitando su resolución y ampliando el campo de estudio de la teoría de grafos.
+3.
+4.Las gráficas eulerianas y unicursales se enfocan en caminos o ciclos que cubren
+todas las aristas, mientras que las hamiltonianas buscan recorridos que cubran
+todos los vértices.
+Las gráficas trazables arbitrariamente generalizan los conceptos de unicursales,
+ya que permiten empezar en cualquier vértice.
+Por lo que: Cada tipo de gráfica resuelve un problema diferente:
+
+o Euleriano: ¿Cómo recorrer todas las aristas una sola vez en un
+ciclo?
+o Unicursal: ¿Cómo recorrer todas las aristas una sola vez en un
+camino?
+o Hamiltoniano: ¿Cómo recorrer todos los vértices una sola vez en un
+ciclo?
+o Trazable arbitrariamente: ¿Cómo garantizar la posibilidad de recorrer
+todas las aristas desde cualquier vértice inicial?
+5. Referente a los gráficos lineales y planares 
+Los gráficos lineales facilitan el análisis de las conexiones entre elementos, dejando de lado las propiedades específicas de los nodos.
+Los gráficos planares permiten representar redes de forma clara al evitar cruces entre las conexiones, siendo útiles donde la disposición geométrica es relevante.
+
+#Referencias
+
+Chacón, J. L. (n.d.). Introducción a la teoría de grafos. Alfaomega. https://libroweb.alfaomega.com.mx/book/685/free/ovas_statics/cap7/Introduccion%20a%20la%20teoria%20de%20grafos.%20Chacon,%20Jose%20Luis..pdf
+UNAM Matemáticas. (n.d.). Clase sobre grafos aplicada a algoritmos [Video]. YouTube. https://www.youtube.com/watch?v=Pd36ywgCO_8&t=1596s
+Matemáticas Discretas. (2018, 3 julio). Capítulo 11: Teoría de grafos. Medium. https://medium.com/@matematicasdiscretaslibro/cap%C3%ADtulo-11-teoria-de-grafos-3b00228dd81c
+Khan Academy Español. (n.d.). Introducción a grafos en matemáticas [Video]. YouTube. https://www.youtube.com/watch?v=tBB9d8ESX28
+Weisstein, E. W. (s. f.). Line graph. MathWorld--A Wolfram Web Resource. Recuperado
+el 20 de noviembre de 2024, de https://mathworld.wolfram.com/LineGraph.html.
+ Weisstein, E. W. (s. f.). Planar graph. MathWorld--A Wolfram Web Resource.
+Recuperado el 20 de noviembre de 2024, de
+https://mathworld.wolfram.com/PlanarGraph.html.
+Viana, M. P., Strano, E., Bordin, P., & Barthelemy, M. (2013). The simplicity of planar
+networks. Scientific Reports, 3(1), Article 3495. https://doi.org/10.1038/srep03495.
+More, R. D., Patil, A. S., Dandwate, D. S., & Tupe, U. J. (2021). A literature review on
+applications of graph theory in various fields. International Journal for Research Trends
+and Innovation, 6(1). https://ijrti.org/papers/IJRTI2101001.pdf
+Mat RAMIREZ REYES SAMUEL TADEO, Teoría de Graficas, SCRIBD, Consultado 18 noviembre
+2024
+Video:
+Prof. Fernando Manzanares 2021, Teoría de graficas, YouTube, UNAM FES
+Acatlán MAC, Naucalpan de Juárez Estado de México, México. Consultado 18 de
+noviembre 2024.
 https://www.youtube.com/watch?v=IU-ahHmUQRA
-https://www.youtube.com/watch?v=2ufAXhByz7I&amp;t=5s
-https://www.youtube.com/watch?v=n73Vzh16dlk&amp;t=4s
-https://libroweb.alfaomega.com.mx/book/685/free/ovas_statics/cap7/Introduccion%20a%20la%20teoria%20de%20grafos.%20Chacon,%20Jose%20Luis..pdf
-https://fcaenlinea1.unam.mx/anexos/1566/1566_u4_anexo3.pdf
- https://www.youtube.com/watch?v=Pd36ywgCO_8&t=1596s
-https://medium.com/@matematicasdiscretaslibro/cap%C3%ADtulo-11-teoria-de-grafos-3b00228dd81c
-https://www.youtube.com/watch?v=tBB9d8ESX28
-https://www.nature.com/articles/srep03495
-https://ijrti.org/papers/IJRTI2101001.pdf
-https://mathworld.wolfram.com/PlanarGraph.html
-https://mathworld.wolfram.com/LineGraph.html
+
